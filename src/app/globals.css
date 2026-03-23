@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 208 53% 8%;
+    --foreground: 198 43% 95%;
+
+    --card: 209 49% 12%;
+    --card-foreground: 198 43% 95%;
+
+    --popover: 209 49% 12%;
+    --popover-foreground: 198 43% 95%;
+
+    --primary: 163 93% 42%;
+    --primary-foreground: 170 100% 7%;
+
+    --secondary: 208 35% 17%;
+    --secondary-foreground: 198 43% 95%;
+
+    --muted: 208 31% 15%;
+    --muted-foreground: 203 24% 70%;
+
+    --accent: 193 60% 20%;
+    --accent-foreground: 198 43% 95%;
+
+    --destructive: 0 78% 56%;
+    --destructive-foreground: 198 43% 95%;
+
+    --border: 201 35% 24%;
+    --input: 205 34% 16%;
+    --ring: 163 93% 42%;
+
+    --radius: 0.9rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    background-image:
+      radial-gradient(circle at 15% -10%, hsl(163 93% 42% / 0.22), transparent 42%),
+      radial-gradient(circle at 85% 0%, hsl(193 88% 52% / 0.18), transparent 38%),
+      linear-gradient(160deg, hsl(var(--background)) 0%, hsl(212 42% 10%) 46%, hsl(204 52% 7%) 100%);
+    min-height: 100vh;
+    overflow-x: hidden;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  html {
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-heading), var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  @media (max-width: 768px) {
+    input,
+    select,
+    textarea {
+      font-size: 16px;
+    }
+  }
+}
+
+@layer components {
+  .app-shell {
+    background:
+      radial-gradient(circle at 80% 10%, hsl(163 93% 42% / 0.1), transparent 38%),
+      radial-gradient(circle at 0% 100%, hsl(196 89% 52% / 0.09), transparent 34%);
+  }
+
+  .glass-panel {
+    @apply border border-border/70 bg-card/60 backdrop-blur-md shadow-[0_10px_40px_-24px_rgba(8,145,178,0.7)];
+  }
+
+  .lite-panel {
+    @apply border border-border/70 bg-card/85 shadow-[0_10px_28px_-24px_rgba(8,145,178,0.45)];
+  }
+
+  .title-gradient {
+    @apply bg-gradient-to-r from-primary via-cyan-300 to-emerald-200 bg-clip-text text-transparent;
+  }
+
+  .metric-pill {
+    @apply rounded-lg border border-border/80 bg-background/45 px-3 py-2 text-xs font-semibold;
+  }
+
+  .nutrition-lazy-block {
+    content-visibility: auto;
+    contain: layout paint;
+    contain-intrinsic-size: 1px 960px;
+  }
+
+  .exercise-card-lazy {
+    content-visibility: auto;
+    contain: layout paint;
+    contain-intrinsic-size: 1px 520px;
+  }
+}

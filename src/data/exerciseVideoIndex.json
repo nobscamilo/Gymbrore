@@ -1,0 +1,1881 @@
+[
+  {
+    "id": "split-squat-wide",
+    "sourceId": "762",
+    "exerciseLabel": "Split Squat Wide",
+    "fileName": "762_Split_Squat_Wide.mp4",
+    "localUrl": "/exercise-videos/762_Split_Squat_Wide.mp4",
+    "keywords": [
+      "split squat wide",
+      "split",
+      "squat",
+      "wide"
+    ]
+  },
+  {
+    "id": "180-degree-jump",
+    "sourceId": "763",
+    "exerciseLabel": "180 Degree Jump",
+    "fileName": "763_180_Degree_Jump.mp4",
+    "localUrl": "/exercise-videos/763_180_Degree_Jump.mp4",
+    "keywords": [
+      "180 degree jump",
+      "180",
+      "degree",
+      "jump"
+    ]
+  },
+  {
+    "id": "shuffle",
+    "sourceId": "764",
+    "exerciseLabel": "Shuffle",
+    "fileName": "764_Shuffle.mp4",
+    "localUrl": "/exercise-videos/764_Shuffle.mp4",
+    "keywords": [
+      "shuffle"
+    ]
+  },
+  {
+    "id": "calf-stretch-seated-with-towel",
+    "sourceId": "765",
+    "exerciseLabel": "Calf Stretch Seated With Towel",
+    "fileName": "765_Calf_Stretch_-_Seated_with_Towel.mp4",
+    "localUrl": "/exercise-videos/765_Calf_Stretch_-_Seated_with_Towel.mp4",
+    "keywords": [
+      "calf stretch seated with towel",
+      "calf stretch towel",
+      "calf",
+      "stretch",
+      "seated",
+      "with",
+      "towel"
+    ]
+  },
+  {
+    "id": "supine-incline-hip-raise-straight-leg",
+    "sourceId": "766",
+    "exerciseLabel": "Supine Incline Hip Raise Straight Leg",
+    "fileName": "766_Supine_Incline_Hip_Raise_Straight_Leg.mp4",
+    "localUrl": "/exercise-videos/766_Supine_Incline_Hip_Raise_Straight_Leg.mp4",
+    "keywords": [
+      "supine incline hip raise straight leg",
+      "hip raise straight",
+      "supine",
+      "incline",
+      "hip",
+      "raise",
+      "straight",
+      "leg"
+    ]
+  },
+  {
+    "id": "step-toe-taps-low",
+    "sourceId": "767",
+    "exerciseLabel": "Step Toe Taps Low",
+    "fileName": "767_Step_Toe_Taps_Low.mp4",
+    "localUrl": "/exercise-videos/767_Step_Toe_Taps_Low.mp4",
+    "keywords": [
+      "step toe taps low",
+      "step toe taps",
+      "step",
+      "toe",
+      "taps",
+      "low"
+    ]
+  },
+  {
+    "id": "butterfly-crunch",
+    "sourceId": "768",
+    "exerciseLabel": "Butterfly Crunch",
+    "fileName": "768_Butterfly_Crunch.mp4",
+    "localUrl": "/exercise-videos/768_Butterfly_Crunch.mp4",
+    "keywords": [
+      "butterfly crunch",
+      "butterfly",
+      "crunch"
+    ]
+  },
+  {
+    "id": "zottman-curl",
+    "sourceId": "769",
+    "exerciseLabel": "Zottman Curl",
+    "fileName": "769_Zottman_Curl.mp4",
+    "localUrl": "/exercise-videos/769_Zottman_Curl.mp4",
+    "keywords": [
+      "zottman curl",
+      "zottman",
+      "curl"
+    ]
+  },
+  {
+    "id": "wrist-curl-dumbbell",
+    "sourceId": "770",
+    "exerciseLabel": "Wrist Curl Dumbbell",
+    "fileName": "770_Wrist_Curl_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/770_Wrist_Curl_Dumbbell.mp4",
+    "keywords": [
+      "wrist curl dumbbell",
+      "wrist curl",
+      "wrist",
+      "curl",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "wrist-curl-cable",
+    "sourceId": "771",
+    "exerciseLabel": "Wrist Curl Cable",
+    "fileName": "771_Wrist_Curl_Cable.mp4",
+    "localUrl": "/exercise-videos/771_Wrist_Curl_Cable.mp4",
+    "keywords": [
+      "wrist curl cable",
+      "wrist curl",
+      "wrist",
+      "curl",
+      "cable"
+    ]
+  },
+  {
+    "id": "wrist-curl-barbell",
+    "sourceId": "772",
+    "exerciseLabel": "Wrist Curl Barbell",
+    "fileName": "772_Wrist_Curl_Barbell.mp4",
+    "localUrl": "/exercise-videos/772_Wrist_Curl_Barbell.mp4",
+    "keywords": [
+      "wrist curl barbell",
+      "wrist curl",
+      "wrist",
+      "curl",
+      "barbell"
+    ]
+  },
+  {
+    "id": "weighted-twisting-sit-up",
+    "sourceId": "773",
+    "exerciseLabel": "Weighted Twisting Sit Up",
+    "fileName": "773_Weighted_Twisting_Sit-Up.mp4",
+    "localUrl": "/exercise-videos/773_Weighted_Twisting_Sit-Up.mp4",
+    "keywords": [
+      "weighted twisting sit up",
+      "weighted",
+      "twisting",
+      "sit"
+    ]
+  },
+  {
+    "id": "weighted-twisting-crunch",
+    "sourceId": "774",
+    "exerciseLabel": "Weighted Twisting Crunch",
+    "fileName": "774_Weighted_Twisting_Crunch.mp4",
+    "localUrl": "/exercise-videos/774_Weighted_Twisting_Crunch.mp4",
+    "keywords": [
+      "weighted twisting crunch",
+      "weighted",
+      "twisting",
+      "crunch"
+    ]
+  },
+  {
+    "id": "weighted-sit-up",
+    "sourceId": "775",
+    "exerciseLabel": "Weighted Sit Up",
+    "fileName": "775_Weighted_Sit-Up.mp4",
+    "localUrl": "/exercise-videos/775_Weighted_Sit-Up.mp4",
+    "keywords": [
+      "weighted sit up",
+      "weighted",
+      "sit"
+    ]
+  },
+  {
+    "id": "weighted-leg-hip-raise",
+    "sourceId": "776",
+    "exerciseLabel": "Weighted Leg Hip Raise",
+    "fileName": "776_Weighted_Leg-Hip_Raise.mp4",
+    "localUrl": "/exercise-videos/776_Weighted_Leg-Hip_Raise.mp4",
+    "keywords": [
+      "weighted leg hip raise",
+      "weighted hip raise",
+      "weighted",
+      "leg",
+      "hip",
+      "raise"
+    ]
+  },
+  {
+    "id": "weighted-crunch",
+    "sourceId": "777",
+    "exerciseLabel": "Weighted Crunch",
+    "fileName": "777_Weighted_Crunch.mp4",
+    "localUrl": "/exercise-videos/777_Weighted_Crunch.mp4",
+    "keywords": [
+      "weighted crunch",
+      "weighted",
+      "crunch"
+    ]
+  },
+  {
+    "id": "waist-stretch-standing",
+    "sourceId": "778",
+    "exerciseLabel": "Waist Stretch Standing",
+    "fileName": "778_Waist_Stretch_-_Standing.mp4",
+    "localUrl": "/exercise-videos/778_Waist_Stretch_-_Standing.mp4",
+    "keywords": [
+      "waist stretch standing",
+      "waist stretch",
+      "waist",
+      "stretch",
+      "standing"
+    ]
+  },
+  {
+    "id": "waist-stretch-seated-twist",
+    "sourceId": "779",
+    "exerciseLabel": "Waist Stretch Seated Twist",
+    "fileName": "779_Waist_Stretch_-_Seated_Twist.mp4",
+    "localUrl": "/exercise-videos/779_Waist_Stretch_-_Seated_Twist.mp4",
+    "keywords": [
+      "waist stretch seated twist",
+      "waist stretch twist",
+      "waist",
+      "stretch",
+      "seated",
+      "twist"
+    ]
+  },
+  {
+    "id": "waist-stretch-seated-rollover",
+    "sourceId": "780",
+    "exerciseLabel": "Waist Stretch Seated Rollover",
+    "fileName": "780_Waist_Stretch_-_Seated_Rollover.mp4",
+    "localUrl": "/exercise-videos/780_Waist_Stretch_-_Seated_Rollover.mp4",
+    "keywords": [
+      "waist stretch seated rollover",
+      "waist stretch rollover",
+      "waist",
+      "stretch",
+      "seated",
+      "rollover"
+    ]
+  },
+  {
+    "id": "waist-stretch-prone",
+    "sourceId": "781",
+    "exerciseLabel": "Waist Stretch Prone",
+    "fileName": "781_Waist_Stretch_-_Prone.mp4",
+    "localUrl": "/exercise-videos/781_Waist_Stretch_-_Prone.mp4",
+    "keywords": [
+      "waist stretch prone",
+      "waist stretch",
+      "waist",
+      "stretch",
+      "prone"
+    ]
+  },
+  {
+    "id": "waist-stretch-lying",
+    "sourceId": "782",
+    "exerciseLabel": "Waist Stretch Lying",
+    "fileName": "782_Waist_Stretch_-_Lying.mp4",
+    "localUrl": "/exercise-videos/782_Waist_Stretch_-_Lying.mp4",
+    "keywords": [
+      "waist stretch lying",
+      "waist stretch",
+      "waist",
+      "stretch",
+      "lying"
+    ]
+  },
+  {
+    "id": "waist-stretch-lying-rollover",
+    "sourceId": "783",
+    "exerciseLabel": "Waist Stretch Lying Rollover",
+    "fileName": "783_Waist_Stretch_-_Lying_Rollover.mp4",
+    "localUrl": "/exercise-videos/783_Waist_Stretch_-_Lying_Rollover.mp4",
+    "keywords": [
+      "waist stretch lying rollover",
+      "waist stretch rollover",
+      "waist",
+      "stretch",
+      "lying",
+      "rollover"
+    ]
+  },
+  {
+    "id": "waist-stretch-lying-bent-leg",
+    "sourceId": "784",
+    "exerciseLabel": "Waist Stretch Lying Bent Leg",
+    "fileName": "784_Waist_Stretch_-_Lying_Bent_Leg.mp4",
+    "localUrl": "/exercise-videos/784_Waist_Stretch_-_Lying_Bent_Leg.mp4",
+    "keywords": [
+      "waist stretch lying bent leg",
+      "waist stretch bent",
+      "waist",
+      "stretch",
+      "lying",
+      "bent",
+      "leg"
+    ]
+  },
+  {
+    "id": "waist-stretch-kneeling",
+    "sourceId": "785",
+    "exerciseLabel": "Waist Stretch Kneeling",
+    "fileName": "785_Waist_Stretch_-_Kneeling.mp4",
+    "localUrl": "/exercise-videos/785_Waist_Stretch_-_Kneeling.mp4",
+    "keywords": [
+      "waist stretch kneeling",
+      "waist",
+      "stretch",
+      "kneeling"
+    ]
+  },
+  {
+    "id": "vertical-leg-hip-raise",
+    "sourceId": "786",
+    "exerciseLabel": "Vertical Leg Hip Raise",
+    "fileName": "786_Vertical_Leg-Hip_Raise.mp4",
+    "localUrl": "/exercise-videos/786_Vertical_Leg-Hip_Raise.mp4",
+    "keywords": [
+      "vertical leg hip raise",
+      "vertical hip raise",
+      "vertical",
+      "leg",
+      "hip",
+      "raise"
+    ]
+  },
+  {
+    "id": "v-squat-lever",
+    "sourceId": "787",
+    "exerciseLabel": "V Squat Lever",
+    "fileName": "787_V_Squat_Lever.mp4",
+    "localUrl": "/exercise-videos/787_V_Squat_Lever.mp4",
+    "keywords": [
+      "v squat lever",
+      "v squat",
+      "squat",
+      "lever"
+    ]
+  },
+  {
+    "id": "v-sit-up",
+    "sourceId": "788",
+    "exerciseLabel": "V Sit Up",
+    "fileName": "788_V_Sit-Up.mp4",
+    "localUrl": "/exercise-videos/788_V_Sit-Up.mp4",
+    "keywords": [
+      "v sit up",
+      "sit"
+    ]
+  },
+  {
+    "id": "upright-row-dumbbell",
+    "sourceId": "789",
+    "exerciseLabel": "Upright Row Dumbbell",
+    "fileName": "789_Upright_Row_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/789_Upright_Row_Dumbbell.mp4",
+    "keywords": [
+      "upright row dumbbell",
+      "upright row",
+      "upright",
+      "row",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "upright-row-cable",
+    "sourceId": "790",
+    "exerciseLabel": "Upright Row Cable",
+    "fileName": "790_Upright_Row_Cable.mp4",
+    "localUrl": "/exercise-videos/790_Upright_Row_Cable.mp4",
+    "keywords": [
+      "upright row cable",
+      "upright row",
+      "upright",
+      "row",
+      "cable"
+    ]
+  },
+  {
+    "id": "upright-row-barbell",
+    "sourceId": "791",
+    "exerciseLabel": "Upright Row Barbell",
+    "fileName": "791_Upright_Row_Barbell.mp4",
+    "localUrl": "/exercise-videos/791_Upright_Row_Barbell.mp4",
+    "keywords": [
+      "upright row barbell",
+      "upright row",
+      "upright",
+      "row",
+      "barbell"
+    ]
+  },
+  {
+    "id": "upper-arm-stretch-wall",
+    "sourceId": "792",
+    "exerciseLabel": "Upper Arm Stretch Wall",
+    "fileName": "792_Upper_Arm_Stretch_Wall.mp4",
+    "localUrl": "/exercise-videos/792_Upper_Arm_Stretch_Wall.mp4",
+    "keywords": [
+      "upper arm stretch wall",
+      "upper stretch",
+      "upper",
+      "arm",
+      "stretch",
+      "wall"
+    ]
+  },
+  {
+    "id": "upper-arm-stretch-standing",
+    "sourceId": "793",
+    "exerciseLabel": "Upper Arm Stretch Standing",
+    "fileName": "793_Upper_Arm_Stretch_Standing.mp4",
+    "localUrl": "/exercise-videos/793_Upper_Arm_Stretch_Standing.mp4",
+    "keywords": [
+      "upper arm stretch standing",
+      "upper stretch",
+      "upper",
+      "arm",
+      "stretch",
+      "standing"
+    ]
+  },
+  {
+    "id": "upper-arm-stretch-seated",
+    "sourceId": "794",
+    "exerciseLabel": "Upper Arm Stretch Seated",
+    "fileName": "794_Upper_Arm_Stretch_Seated.mp4",
+    "localUrl": "/exercise-videos/794_Upper_Arm_Stretch_Seated.mp4",
+    "keywords": [
+      "upper arm stretch seated",
+      "upper stretch",
+      "upper",
+      "arm",
+      "stretch",
+      "seated"
+    ]
+  },
+  {
+    "id": "upper-arm-stretch-doorway",
+    "sourceId": "795",
+    "exerciseLabel": "Upper Arm Stretch Doorway",
+    "fileName": "795_Upper_Arm_Stretch_Doorway.mp4",
+    "localUrl": "/exercise-videos/795_Upper_Arm_Stretch_Doorway.mp4",
+    "keywords": [
+      "upper arm stretch doorway",
+      "upper stretch",
+      "upper",
+      "arm",
+      "stretch",
+      "doorway"
+    ]
+  },
+  {
+    "id": "underhand-pulldown-cable",
+    "sourceId": "796",
+    "exerciseLabel": "Underhand Pulldown Cable",
+    "fileName": "796_Underhand_Pulldown_Cable.mp4",
+    "localUrl": "/exercise-videos/796_Underhand_Pulldown_Cable.mp4",
+    "keywords": [
+      "underhand pulldown cable",
+      "underhand pulldown",
+      "underhand",
+      "pulldown",
+      "cable"
+    ]
+  },
+  {
+    "id": "underhand-pull-up-cable",
+    "sourceId": "797",
+    "exerciseLabel": "Underhand Pull Up Cable",
+    "fileName": "797_Underhand_Pull-Up_Cable.mp4",
+    "localUrl": "/exercise-videos/797_Underhand_Pull-Up_Cable.mp4",
+    "keywords": [
+      "underhand pull up cable",
+      "underhand pull up",
+      "underhand",
+      "pull",
+      "cable"
+    ]
+  },
+  {
+    "id": "ulnar-flexion-lever",
+    "sourceId": "798",
+    "exerciseLabel": "Ulnar Flexion Lever",
+    "fileName": "798_Ulnar_Flexion_Lever.mp4",
+    "localUrl": "/exercise-videos/798_Ulnar_Flexion_Lever.mp4",
+    "keywords": [
+      "ulnar flexion lever",
+      "ulnar flexion",
+      "ulnar",
+      "flexion",
+      "lever"
+    ]
+  },
+  {
+    "id": "ulnar-flexion-dumbbell",
+    "sourceId": "799",
+    "exerciseLabel": "Ulnar Flexion Dumbbell",
+    "fileName": "799_Ulnar_Flexion_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/799_Ulnar_Flexion_Dumbbell.mp4",
+    "keywords": [
+      "ulnar flexion dumbbell",
+      "ulnar flexion",
+      "ulnar",
+      "flexion",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "twisting-press-cable",
+    "sourceId": "800",
+    "exerciseLabel": "Twisting Press Cable",
+    "fileName": "800_Twisting_Press_Cable.mp4",
+    "localUrl": "/exercise-videos/800_Twisting_Press_Cable.mp4",
+    "keywords": [
+      "twisting press cable",
+      "twisting press",
+      "twisting",
+      "press",
+      "cable"
+    ]
+  },
+  {
+    "id": "twisting-overhead-press-cable",
+    "sourceId": "801",
+    "exerciseLabel": "Twisting Overhead Press Cable",
+    "fileName": "801_Twisting_Overhead_Press_Cable.mp4",
+    "localUrl": "/exercise-videos/801_Twisting_Overhead_Press_Cable.mp4",
+    "keywords": [
+      "twisting overhead press cable",
+      "twisting overhead press",
+      "twisting",
+      "overhead",
+      "press",
+      "cable"
+    ]
+  },
+  {
+    "id": "twisting-crunch-ball",
+    "sourceId": "802",
+    "exerciseLabel": "Twisting Crunch Ball",
+    "fileName": "802_Twisting_Crunch_Ball.mp4",
+    "localUrl": "/exercise-videos/802_Twisting_Crunch_Ball.mp4",
+    "keywords": [
+      "twisting crunch ball",
+      "twisting crunch",
+      "twisting",
+      "crunch",
+      "ball"
+    ]
+  },
+  {
+    "id": "twist-up-cable",
+    "sourceId": "803",
+    "exerciseLabel": "Twist Up Cable",
+    "fileName": "803_Twist_Up_Cable.mp4",
+    "localUrl": "/exercise-videos/803_Twist_Up_Cable.mp4",
+    "keywords": [
+      "twist up cable",
+      "twist up",
+      "twist",
+      "cable"
+    ]
+  },
+  {
+    "id": "twist-down-cable",
+    "sourceId": "804",
+    "exerciseLabel": "Twist Down Cable",
+    "fileName": "804_Twist_Down_Cable.mp4",
+    "localUrl": "/exercise-videos/804_Twist_Down_Cable.mp4",
+    "keywords": [
+      "twist down cable",
+      "twist down",
+      "twist",
+      "down",
+      "cable"
+    ]
+  },
+  {
+    "id": "twist-lever",
+    "sourceId": "805",
+    "exerciseLabel": "Twist Lever",
+    "fileName": "805_Twist_Lever.mp4",
+    "localUrl": "/exercise-videos/805_Twist_Lever.mp4",
+    "keywords": [
+      "twist lever",
+      "twist",
+      "lever"
+    ]
+  },
+  {
+    "id": "twist-cable",
+    "sourceId": "806",
+    "exerciseLabel": "Twist Cable",
+    "fileName": "806_Twist_Cable.mp4",
+    "localUrl": "/exercise-videos/806_Twist_Cable.mp4",
+    "keywords": [
+      "twist cable",
+      "twist",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-stretch-standing",
+    "sourceId": "807",
+    "exerciseLabel": "Triceps Stretch Standing",
+    "fileName": "807_Triceps_Stretch_Standing.mp4",
+    "localUrl": "/exercise-videos/807_Triceps_Stretch_Standing.mp4",
+    "keywords": [
+      "triceps stretch standing",
+      "triceps stretch",
+      "triceps",
+      "stretch",
+      "standing"
+    ]
+  },
+  {
+    "id": "triceps-pushdown-lever",
+    "sourceId": "808",
+    "exerciseLabel": "Triceps Pushdown Lever",
+    "fileName": "808_Triceps_Pushdown_Lever.mp4",
+    "localUrl": "/exercise-videos/808_Triceps_Pushdown_Lever.mp4",
+    "keywords": [
+      "triceps pushdown lever",
+      "triceps pushdown",
+      "triceps",
+      "pushdown",
+      "lever"
+    ]
+  },
+  {
+    "id": "triceps-pushdown-cable",
+    "sourceId": "809",
+    "exerciseLabel": "Triceps Pushdown Cable",
+    "fileName": "809_Triceps_Pushdown_Cable.mp4",
+    "localUrl": "/exercise-videos/809_Triceps_Pushdown_Cable.mp4",
+    "keywords": [
+      "triceps pushdown cable",
+      "triceps pushdown",
+      "triceps",
+      "pushdown",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-pushdown-v-bar-cable",
+    "sourceId": "810",
+    "exerciseLabel": "Triceps Pushdown V Bar Cable",
+    "fileName": "810_Triceps_Pushdown_-_V-Bar_Cable.mp4",
+    "localUrl": "/exercise-videos/810_Triceps_Pushdown_-_V-Bar_Cable.mp4",
+    "keywords": [
+      "triceps pushdown v bar cable",
+      "triceps pushdown v bar",
+      "triceps",
+      "pushdown",
+      "bar",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-pushdown-single-arm-cable",
+    "sourceId": "811",
+    "exerciseLabel": "Triceps Pushdown Single Arm Cable",
+    "fileName": "811_Triceps_Pushdown_-_Single_Arm_Cable.mp4",
+    "localUrl": "/exercise-videos/811_Triceps_Pushdown_-_Single_Arm_Cable.mp4",
+    "keywords": [
+      "triceps pushdown single arm cable",
+      "triceps pushdown",
+      "triceps",
+      "pushdown",
+      "single",
+      "arm",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-pushdown-rope-cable",
+    "sourceId": "812",
+    "exerciseLabel": "Triceps Pushdown Rope Cable",
+    "fileName": "812_Triceps_Pushdown_-_Rope_Cable.mp4",
+    "localUrl": "/exercise-videos/812_Triceps_Pushdown_-_Rope_Cable.mp4",
+    "keywords": [
+      "triceps pushdown rope cable",
+      "triceps pushdown rope",
+      "triceps",
+      "pushdown",
+      "rope",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-pushdown-incline-cable",
+    "sourceId": "813",
+    "exerciseLabel": "Triceps Pushdown Incline Cable",
+    "fileName": "813_Triceps_Pushdown_-_Incline_Cable.mp4",
+    "localUrl": "/exercise-videos/813_Triceps_Pushdown_-_Incline_Cable.mp4",
+    "keywords": [
+      "triceps pushdown incline cable",
+      "triceps pushdown",
+      "triceps",
+      "pushdown",
+      "incline",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-pushdown-heavy-cable",
+    "sourceId": "814",
+    "exerciseLabel": "Triceps Pushdown Heavy Cable",
+    "fileName": "814_Triceps_Pushdown_-_Heavy_Cable.mp4",
+    "localUrl": "/exercise-videos/814_Triceps_Pushdown_-_Heavy_Cable.mp4",
+    "keywords": [
+      "triceps pushdown heavy cable",
+      "triceps pushdown heavy",
+      "triceps",
+      "pushdown",
+      "heavy",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-pushdown-alternating-seated-cable",
+    "sourceId": "815",
+    "exerciseLabel": "Triceps Pushdown Alternating Seated Cable",
+    "fileName": "815_Triceps_Pushdown_-_Alternating_Seated_Cable.mp4",
+    "localUrl": "/exercise-videos/815_Triceps_Pushdown_-_Alternating_Seated_Cable.mp4",
+    "keywords": [
+      "triceps pushdown alternating seated cable",
+      "triceps pushdown alternating",
+      "triceps",
+      "pushdown",
+      "alternating",
+      "seated",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-kickback-dumbbell",
+    "sourceId": "816",
+    "exerciseLabel": "Triceps Kickback Dumbbell",
+    "fileName": "816_Triceps_Kickback_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/816_Triceps_Kickback_Dumbbell.mp4",
+    "keywords": [
+      "triceps kickback dumbbell",
+      "triceps kickback",
+      "triceps",
+      "kickback",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-lever",
+    "sourceId": "817",
+    "exerciseLabel": "Triceps Extension Lever",
+    "fileName": "817_Triceps_Extension_Lever.mp4",
+    "localUrl": "/exercise-videos/817_Triceps_Extension_Lever.mp4",
+    "keywords": [
+      "triceps extension lever",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "lever"
+    ]
+  },
+  {
+    "id": "triceps-extension-side-cable",
+    "sourceId": "818",
+    "exerciseLabel": "Triceps Extension Side Cable",
+    "fileName": "818_Triceps_Extension_-_Side_Cable.mp4",
+    "localUrl": "/exercise-videos/818_Triceps_Extension_-_Side_Cable.mp4",
+    "keywords": [
+      "triceps extension side cable",
+      "triceps extension side",
+      "triceps",
+      "extension",
+      "side",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-extension-seated-single-arm-dumbbell",
+    "sourceId": "819",
+    "exerciseLabel": "Triceps Extension Seated Single Arm Dumbbell",
+    "fileName": "819_Triceps_Extension_-_Seated_Single_Arm_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/819_Triceps_Extension_-_Seated_Single_Arm_Dumbbell.mp4",
+    "keywords": [
+      "triceps extension seated single arm dumbbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "seated",
+      "single",
+      "arm",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-seated-dumbbell",
+    "sourceId": "820",
+    "exerciseLabel": "Triceps Extension Seated Dumbbell",
+    "fileName": "820_Triceps_Extension_-_Seated_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/820_Triceps_Extension_-_Seated_Dumbbell.mp4",
+    "keywords": [
+      "triceps extension seated dumbbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "seated",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-seated-barbell",
+    "sourceId": "821",
+    "exerciseLabel": "Triceps Extension Seated Barbell",
+    "fileName": "821_Triceps_Extension_-_Seated_Barbell.mp4",
+    "localUrl": "/exercise-videos/821_Triceps_Extension_-_Seated_Barbell.mp4",
+    "keywords": [
+      "triceps extension seated barbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "seated",
+      "barbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-overhead-cable",
+    "sourceId": "822",
+    "exerciseLabel": "Triceps Extension Overhead Cable",
+    "fileName": "822_Triceps_Extension_-_Overhead_Cable.mp4",
+    "localUrl": "/exercise-videos/822_Triceps_Extension_-_Overhead_Cable.mp4",
+    "keywords": [
+      "triceps extension overhead cable",
+      "triceps extension overhead",
+      "triceps",
+      "extension",
+      "overhead",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-extension-lying-dumbbell",
+    "sourceId": "823",
+    "exerciseLabel": "Triceps Extension Lying Dumbbell",
+    "fileName": "823_Triceps_Extension_-_Lying_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/823_Triceps_Extension_-_Lying_Dumbbell.mp4",
+    "keywords": [
+      "triceps extension lying dumbbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "lying",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-lying-barbell",
+    "sourceId": "824",
+    "exerciseLabel": "Triceps Extension Lying Barbell",
+    "fileName": "824_Triceps_Extension_-_Lying_Barbell.mp4",
+    "localUrl": "/exercise-videos/824_Triceps_Extension_-_Lying_Barbell.mp4",
+    "keywords": [
+      "triceps extension lying barbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "lying",
+      "barbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-incline-dumbbell",
+    "sourceId": "825",
+    "exerciseLabel": "Triceps Extension Incline Dumbbell",
+    "fileName": "825_Triceps_Extension_-_Incline_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/825_Triceps_Extension_-_Incline_Dumbbell.mp4",
+    "keywords": [
+      "triceps extension incline dumbbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "incline",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-incline-barbell",
+    "sourceId": "826",
+    "exerciseLabel": "Triceps Extension Incline Barbell",
+    "fileName": "826_Triceps_Extension_-_Incline_Barbell.mp4",
+    "localUrl": "/exercise-videos/826_Triceps_Extension_-_Incline_Barbell.mp4",
+    "keywords": [
+      "triceps extension incline barbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "incline",
+      "barbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-decline-dumbbell",
+    "sourceId": "827",
+    "exerciseLabel": "Triceps Extension Decline Dumbbell",
+    "fileName": "827_Triceps_Extension_-_Decline_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/827_Triceps_Extension_-_Decline_Dumbbell.mp4",
+    "keywords": [
+      "triceps extension decline dumbbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "decline",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "triceps-extension-decline-barbell",
+    "sourceId": "828",
+    "exerciseLabel": "Triceps Extension Decline Barbell",
+    "fileName": "828_Triceps_Extension_-_Decline_Barbell.mp4",
+    "localUrl": "/exercise-videos/828_Triceps_Extension_-_Decline_Barbell.mp4",
+    "keywords": [
+      "triceps extension decline barbell",
+      "triceps extension",
+      "triceps",
+      "extension",
+      "decline",
+      "barbell"
+    ]
+  },
+  {
+    "id": "triceps-dip",
+    "sourceId": "829",
+    "exerciseLabel": "Triceps Dip",
+    "fileName": "829_Triceps_Dip.mp4",
+    "localUrl": "/exercise-videos/829_Triceps_Dip.mp4",
+    "keywords": [
+      "triceps dip",
+      "triceps",
+      "dip"
+    ]
+  },
+  {
+    "id": "triceps-dip-lever",
+    "sourceId": "830",
+    "exerciseLabel": "Triceps Dip Lever",
+    "fileName": "830_Triceps_Dip_Lever.mp4",
+    "localUrl": "/exercise-videos/830_Triceps_Dip_Lever.mp4",
+    "keywords": [
+      "triceps dip lever",
+      "triceps dip",
+      "triceps",
+      "dip",
+      "lever"
+    ]
+  },
+  {
+    "id": "triceps-dip-cable",
+    "sourceId": "831",
+    "exerciseLabel": "Triceps Dip Cable",
+    "fileName": "831_Triceps_Dip_Cable.mp4",
+    "localUrl": "/exercise-videos/831_Triceps_Dip_Cable.mp4",
+    "keywords": [
+      "triceps dip cable",
+      "triceps dip",
+      "triceps",
+      "dip",
+      "cable"
+    ]
+  },
+  {
+    "id": "triceps-dip-reverse-lever",
+    "sourceId": "832",
+    "exerciseLabel": "Triceps Dip Reverse Lever",
+    "fileName": "832_Triceps_Dip_-_Reverse_Lever.mp4",
+    "localUrl": "/exercise-videos/832_Triceps_Dip_-_Reverse_Lever.mp4",
+    "keywords": [
+      "triceps dip reverse lever",
+      "triceps dip",
+      "triceps",
+      "dip",
+      "reverse",
+      "lever"
+    ]
+  },
+  {
+    "id": "triceps-dip-assisted",
+    "sourceId": "833",
+    "exerciseLabel": "Triceps Dip Assisted",
+    "fileName": "833_Triceps_Dip_-_Assisted.mp4",
+    "localUrl": "/exercise-videos/833_Triceps_Dip_-_Assisted.mp4",
+    "keywords": [
+      "triceps dip assisted",
+      "triceps dip",
+      "triceps",
+      "dip",
+      "assisted"
+    ]
+  },
+  {
+    "id": "trap-stretch-standing",
+    "sourceId": "834",
+    "exerciseLabel": "Trap. Stretch Standing",
+    "fileName": "834_Trap._Stretch_Standing.mp4",
+    "localUrl": "/exercise-videos/834_Trap._Stretch_Standing.mp4",
+    "keywords": [
+      "trap stretch standing",
+      "trap stretch",
+      "trap",
+      "stretch",
+      "standing"
+    ]
+  },
+  {
+    "id": "thigh-stretch-standing",
+    "sourceId": "835",
+    "exerciseLabel": "Thigh Stretch Standing",
+    "fileName": "835_Thigh_Stretch_-_Standing.mp4",
+    "localUrl": "/exercise-videos/835_Thigh_Stretch_-_Standing.mp4",
+    "keywords": [
+      "thigh stretch standing",
+      "thigh stretch",
+      "thigh",
+      "stretch",
+      "standing"
+    ]
+  },
+  {
+    "id": "thigh-stretch-standing-with-towel",
+    "sourceId": "836",
+    "exerciseLabel": "Thigh Stretch Standing With Towel",
+    "fileName": "836_Thigh_Stretch_-_Standing_with_Towel.mp4",
+    "localUrl": "/exercise-videos/836_Thigh_Stretch_-_Standing_with_Towel.mp4",
+    "keywords": [
+      "thigh stretch standing with towel",
+      "thigh stretch towel",
+      "thigh",
+      "stretch",
+      "standing",
+      "with",
+      "towel"
+    ]
+  },
+  {
+    "id": "thigh-stretch-lying-side",
+    "sourceId": "837",
+    "exerciseLabel": "Thigh Stretch Lying Side",
+    "fileName": "837_Thigh_Stretch_-_Lying_Side.mp4",
+    "localUrl": "/exercise-videos/837_Thigh_Stretch_-_Lying_Side.mp4",
+    "keywords": [
+      "thigh stretch lying side",
+      "thigh stretch side",
+      "thigh",
+      "stretch",
+      "lying",
+      "side"
+    ]
+  },
+  {
+    "id": "thigh-stretch-lying-prone",
+    "sourceId": "838",
+    "exerciseLabel": "Thigh Stretch Lying Prone",
+    "fileName": "838_Thigh_Stretch_-_Lying_Prone.mp4",
+    "localUrl": "/exercise-videos/838_Thigh_Stretch_-_Lying_Prone.mp4",
+    "keywords": [
+      "thigh stretch lying prone",
+      "thigh stretch",
+      "thigh",
+      "stretch",
+      "lying",
+      "prone"
+    ]
+  },
+  {
+    "id": "thigh-stretch-lever",
+    "sourceId": "839",
+    "exerciseLabel": "Thigh Stretch Lever",
+    "fileName": "839_Thigh_Stretch_-_Lever.mp4",
+    "localUrl": "/exercise-videos/839_Thigh_Stretch_-_Lever.mp4",
+    "keywords": [
+      "thigh stretch lever",
+      "thigh stretch",
+      "thigh",
+      "stretch",
+      "lever"
+    ]
+  },
+  {
+    "id": "sumo-deadlift-barbell",
+    "sourceId": "840",
+    "exerciseLabel": "Sumo Deadlift Barbell",
+    "fileName": "840_Sumo_Deadlift_Barbell.mp4",
+    "localUrl": "/exercise-videos/840_Sumo_Deadlift_Barbell.mp4",
+    "keywords": [
+      "sumo deadlift barbell",
+      "sumo deadlift",
+      "sumo",
+      "deadlift",
+      "barbell"
+    ]
+  },
+  {
+    "id": "subscapularis-stretch-stick",
+    "sourceId": "841",
+    "exerciseLabel": "Subscapularis Stretch Stick",
+    "fileName": "841_Subscapularis_Stretch_Stick.mp4",
+    "localUrl": "/exercise-videos/841_Subscapularis_Stretch_Stick.mp4",
+    "keywords": [
+      "subscapularis stretch stick",
+      "subscapularis stretch",
+      "subscapularis",
+      "stretch",
+      "stick"
+    ]
+  },
+  {
+    "id": "subscapularis-stretch-doorway",
+    "sourceId": "842",
+    "exerciseLabel": "Subscapularis Stretch Doorway",
+    "fileName": "842_Subscapularis_Stretch_Doorway.mp4",
+    "localUrl": "/exercise-videos/842_Subscapularis_Stretch_Doorway.mp4",
+    "keywords": [
+      "subscapularis stretch doorway",
+      "subscapularis stretch",
+      "subscapularis",
+      "stretch",
+      "doorway"
+    ]
+  },
+  {
+    "id": "stretch-wrist-flexors-standing",
+    "sourceId": "843",
+    "exerciseLabel": "Stretch Wrist Flexors Standing",
+    "fileName": "843_Stretch_-_Wrist_Flexors_Standing.mp4",
+    "localUrl": "/exercise-videos/843_Stretch_-_Wrist_Flexors_Standing.mp4",
+    "keywords": [
+      "stretch wrist flexors standing",
+      "stretch wrist flexors",
+      "stretch",
+      "wrist",
+      "flexors",
+      "standing"
+    ]
+  },
+  {
+    "id": "stretch-wrist-flexors-single-arm",
+    "sourceId": "844",
+    "exerciseLabel": "Stretch Wrist Flexors Single Arm",
+    "fileName": "844_Stretch_-_Wrist_Flexors_Single_Arm.mp4",
+    "localUrl": "/exercise-videos/844_Stretch_-_Wrist_Flexors_Single_Arm.mp4",
+    "keywords": [
+      "stretch wrist flexors single arm",
+      "stretch wrist flexors",
+      "stretch",
+      "wrist",
+      "flexors",
+      "single",
+      "arm"
+    ]
+  },
+  {
+    "id": "stretch-wrist-flexors-seated",
+    "sourceId": "845",
+    "exerciseLabel": "Stretch Wrist Flexors Seated",
+    "fileName": "845_Stretch_-_Wrist_Flexors_Seated.mp4",
+    "localUrl": "/exercise-videos/845_Stretch_-_Wrist_Flexors_Seated.mp4",
+    "keywords": [
+      "stretch wrist flexors seated",
+      "stretch wrist flexors",
+      "stretch",
+      "wrist",
+      "flexors",
+      "seated"
+    ]
+  },
+  {
+    "id": "stretch-wrist-flexors-kneeling",
+    "sourceId": "846",
+    "exerciseLabel": "Stretch Wrist Flexors Kneeling",
+    "fileName": "846_Stretch_-_Wrist_Flexors_Kneeling.mp4",
+    "localUrl": "/exercise-videos/846_Stretch_-_Wrist_Flexors_Kneeling.mp4",
+    "keywords": [
+      "stretch wrist flexors kneeling",
+      "stretch",
+      "wrist",
+      "flexors",
+      "kneeling"
+    ]
+  },
+  {
+    "id": "stretch-wrist-extensor-single-arm",
+    "sourceId": "847",
+    "exerciseLabel": "Stretch Wrist Extensor Single Arm",
+    "fileName": "847_Stretch_-_Wrist_Extensor_Single_Arm.mp4",
+    "localUrl": "/exercise-videos/847_Stretch_-_Wrist_Extensor_Single_Arm.mp4",
+    "keywords": [
+      "stretch wrist extensor single arm",
+      "stretch wrist extensor",
+      "stretch",
+      "wrist",
+      "extensor",
+      "single",
+      "arm"
+    ]
+  },
+  {
+    "id": "stretch-wrist-extensor-kneeling",
+    "sourceId": "848",
+    "exerciseLabel": "Stretch Wrist Extensor Kneeling",
+    "fileName": "848_Stretch_-_Wrist_Extensor_Kneeling.mp4",
+    "localUrl": "/exercise-videos/848_Stretch_-_Wrist_Extensor_Kneeling.mp4",
+    "keywords": [
+      "stretch wrist extensor kneeling",
+      "stretch",
+      "wrist",
+      "extensor",
+      "kneeling"
+    ]
+  },
+  {
+    "id": "stretch-teres-minor-stick",
+    "sourceId": "849",
+    "exerciseLabel": "Stretch Teres Minor Stick",
+    "fileName": "849_Stretch_-_Teres_Minor_Stick.mp4",
+    "localUrl": "/exercise-videos/849_Stretch_-_Teres_Minor_Stick.mp4",
+    "keywords": [
+      "stretch teres minor stick",
+      "stretch teres minor",
+      "stretch",
+      "teres",
+      "minor",
+      "stick"
+    ]
+  },
+  {
+    "id": "stretch-sternocleidomastoid-rotation",
+    "sourceId": "850",
+    "exerciseLabel": "Stretch Sternocleidomastoid Rotation",
+    "fileName": "850_Stretch_-_Sternocleidomastoid_Rotation.mp4",
+    "localUrl": "/exercise-videos/850_Stretch_-_Sternocleidomastoid_Rotation.mp4",
+    "keywords": [
+      "stretch sternocleidomastoid rotation",
+      "stretch",
+      "sternocleidomastoid",
+      "rotation"
+    ]
+  },
+  {
+    "id": "stretch-sternocleidomastoid-retraction",
+    "sourceId": "851",
+    "exerciseLabel": "Stretch Sternocleidomastoid Retraction",
+    "fileName": "851_Stretch_-_Sternocleidomastoid_Retraction.mp4",
+    "localUrl": "/exercise-videos/851_Stretch_-_Sternocleidomastoid_Retraction.mp4",
+    "keywords": [
+      "stretch sternocleidomastoid retraction",
+      "stretch",
+      "sternocleidomastoid",
+      "retraction"
+    ]
+  },
+  {
+    "id": "stretch-splenius-extension",
+    "sourceId": "852",
+    "exerciseLabel": "Stretch Splenius Extension",
+    "fileName": "852_Stretch_-_Splenius_Extension.mp4",
+    "localUrl": "/exercise-videos/852_Stretch_-_Splenius_Extension.mp4",
+    "keywords": [
+      "stretch splenius extension",
+      "stretch",
+      "splenius",
+      "extension"
+    ]
+  },
+  {
+    "id": "stretch-infraspinatus-lying",
+    "sourceId": "853",
+    "exerciseLabel": "Stretch Infraspinatus Lying",
+    "fileName": "853_Stretch_-_Infraspinatus_Lying.mp4",
+    "localUrl": "/exercise-videos/853_Stretch_-_Infraspinatus_Lying.mp4",
+    "keywords": [
+      "stretch infraspinatus lying",
+      "stretch infraspinatus",
+      "stretch",
+      "infraspinatus",
+      "lying"
+    ]
+  },
+  {
+    "id": "stretch-infraspinatus-bend-over",
+    "sourceId": "854",
+    "exerciseLabel": "Stretch Infraspinatus Bend Over",
+    "fileName": "854_Stretch_-_Infraspinatus_Bend-over.mp4",
+    "localUrl": "/exercise-videos/854_Stretch_-_Infraspinatus_Bend-over.mp4",
+    "keywords": [
+      "stretch infraspinatus bend over",
+      "stretch",
+      "infraspinatus",
+      "bend",
+      "over"
+    ]
+  },
+  {
+    "id": "stretch-deltoid-lateral-standing",
+    "sourceId": "855",
+    "exerciseLabel": "Stretch Deltoid Lateral Standing",
+    "fileName": "855_Stretch_-_Deltoid_Lateral_Standing.mp4",
+    "localUrl": "/exercise-videos/855_Stretch_-_Deltoid_Lateral_Standing.mp4",
+    "keywords": [
+      "stretch deltoid lateral standing",
+      "stretch deltoid lateral",
+      "stretch",
+      "deltoid",
+      "lateral",
+      "standing"
+    ]
+  },
+  {
+    "id": "stretch-deltoid-lateral-bar",
+    "sourceId": "856",
+    "exerciseLabel": "Stretch Deltoid Lateral Bar",
+    "fileName": "856_Stretch_-_Deltoid_Lateral_Bar.mp4",
+    "localUrl": "/exercise-videos/856_Stretch_-_Deltoid_Lateral_Bar.mp4",
+    "keywords": [
+      "stretch deltoid lateral bar",
+      "stretch",
+      "deltoid",
+      "lateral",
+      "bar"
+    ]
+  },
+  {
+    "id": "straight-leg-hip-raise-cable",
+    "sourceId": "857",
+    "exerciseLabel": "Straight Leg Hip Raise Cable",
+    "fileName": "857_Straight_Leg-Hip_Raise_Cable.mp4",
+    "localUrl": "/exercise-videos/857_Straight_Leg-Hip_Raise_Cable.mp4",
+    "keywords": [
+      "straight leg hip raise cable",
+      "straight hip raise",
+      "straight",
+      "leg",
+      "hip",
+      "raise",
+      "cable"
+    ]
+  },
+  {
+    "id": "straight-leg-deadlift-dumbbell",
+    "sourceId": "858",
+    "exerciseLabel": "Straight Leg Deadlift Dumbbell",
+    "fileName": "858_Straight_Leg_Deadlift_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/858_Straight_Leg_Deadlift_Dumbbell.mp4",
+    "keywords": [
+      "straight leg deadlift dumbbell",
+      "straight deadlift",
+      "straight",
+      "leg",
+      "deadlift",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "straight-leg-deadlift-barbell",
+    "sourceId": "859",
+    "exerciseLabel": "Straight Leg Deadlift Barbell",
+    "fileName": "859_Straight_Leg_Deadlift_Barbell.mp4",
+    "localUrl": "/exercise-videos/859_Straight_Leg_Deadlift_Barbell.mp4",
+    "keywords": [
+      "straight leg deadlift barbell",
+      "straight deadlift",
+      "straight",
+      "leg",
+      "deadlift",
+      "barbell"
+    ]
+  },
+  {
+    "id": "step-ups",
+    "sourceId": "860",
+    "exerciseLabel": "Step Ups",
+    "fileName": "860_Step-Ups.mp4",
+    "localUrl": "/exercise-videos/860_Step-Ups.mp4",
+    "keywords": [
+      "step ups",
+      "step",
+      "ups"
+    ]
+  },
+  {
+    "id": "step-ups-dumbbell",
+    "sourceId": "861",
+    "exerciseLabel": "Step Ups Dumbbell",
+    "fileName": "861_Step-Ups_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/861_Step-Ups_Dumbbell.mp4",
+    "keywords": [
+      "step ups dumbbell",
+      "step ups",
+      "step",
+      "ups",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "step-ups-cable",
+    "sourceId": "862",
+    "exerciseLabel": "Step Ups Cable",
+    "fileName": "862_Step-Ups_Cable.mp4",
+    "localUrl": "/exercise-videos/862_Step-Ups_Cable.mp4",
+    "keywords": [
+      "step ups cable",
+      "step ups",
+      "step",
+      "ups",
+      "cable"
+    ]
+  },
+  {
+    "id": "step-ups-barbell",
+    "sourceId": "863",
+    "exerciseLabel": "Step Ups Barbell",
+    "fileName": "863_Step-Ups_Barbell.mp4",
+    "localUrl": "/exercise-videos/863_Step-Ups_Barbell.mp4",
+    "keywords": [
+      "step ups barbell",
+      "step ups",
+      "step",
+      "ups",
+      "barbell"
+    ]
+  },
+  {
+    "id": "step-up-dumbbell",
+    "sourceId": "864",
+    "exerciseLabel": "Step Up Dumbbell",
+    "fileName": "864_Step_Up_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/864_Step_Up_Dumbbell.mp4",
+    "keywords": [
+      "step up dumbbell",
+      "step up",
+      "step",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "step-up-cable",
+    "sourceId": "865",
+    "exerciseLabel": "Step Up Cable",
+    "fileName": "865_Step_Up_Cable.mp4",
+    "localUrl": "/exercise-videos/865_Step_Up_Cable.mp4",
+    "keywords": [
+      "step up cable",
+      "step up",
+      "step",
+      "cable"
+    ]
+  },
+  {
+    "id": "step-down-dumbbell",
+    "sourceId": "866",
+    "exerciseLabel": "Step Down Dumbbell",
+    "fileName": "866_Step_Down_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/866_Step_Down_Dumbbell.mp4",
+    "keywords": [
+      "step down dumbbell",
+      "step down",
+      "step",
+      "down",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "standing-row-lever",
+    "sourceId": "867",
+    "exerciseLabel": "Standing Row Lever",
+    "fileName": "867_Standing_Row_Lever.mp4",
+    "localUrl": "/exercise-videos/867_Standing_Row_Lever.mp4",
+    "keywords": [
+      "standing row lever",
+      "row",
+      "standing",
+      "lever"
+    ]
+  },
+  {
+    "id": "standing-press-cable",
+    "sourceId": "868",
+    "exerciseLabel": "Standing Press Cable",
+    "fileName": "868_Standing_Press_Cable.mp4",
+    "localUrl": "/exercise-videos/868_Standing_Press_Cable.mp4",
+    "keywords": [
+      "standing press cable",
+      "press",
+      "standing",
+      "cable"
+    ]
+  },
+  {
+    "id": "standing-press-cable-bar",
+    "sourceId": "869",
+    "exerciseLabel": "Standing Press Cable Bar",
+    "fileName": "869_Standing_Press_Cable_Bar.mp4",
+    "localUrl": "/exercise-videos/869_Standing_Press_Cable_Bar.mp4",
+    "keywords": [
+      "standing press cable bar",
+      "press bar",
+      "standing",
+      "press",
+      "cable",
+      "bar"
+    ]
+  },
+  {
+    "id": "standing-leg-curl-lever",
+    "sourceId": "870",
+    "exerciseLabel": "Standing Leg Curl Lever",
+    "fileName": "870_Standing_Leg_Curl_Lever.mp4",
+    "localUrl": "/exercise-videos/870_Standing_Leg_Curl_Lever.mp4",
+    "keywords": [
+      "standing leg curl lever",
+      "curl",
+      "standing",
+      "leg",
+      "lever"
+    ]
+  },
+  {
+    "id": "standing-leg-curl-cable",
+    "sourceId": "871",
+    "exerciseLabel": "Standing Leg Curl Cable",
+    "fileName": "871_Standing_Leg_Curl_Cable.mp4",
+    "localUrl": "/exercise-videos/871_Standing_Leg_Curl_Cable.mp4",
+    "keywords": [
+      "standing leg curl cable",
+      "curl",
+      "standing",
+      "leg",
+      "cable"
+    ]
+  },
+  {
+    "id": "standing-incline-press-cable",
+    "sourceId": "872",
+    "exerciseLabel": "Standing Incline Press Cable",
+    "fileName": "872_Standing_Incline_Press_Cable.mp4",
+    "localUrl": "/exercise-videos/872_Standing_Incline_Press_Cable.mp4",
+    "keywords": [
+      "standing incline press cable",
+      "press",
+      "standing",
+      "incline",
+      "cable"
+    ]
+  },
+  {
+    "id": "standing-hip-adduction-lever",
+    "sourceId": "873",
+    "exerciseLabel": "Standing Hip Adduction Lever",
+    "fileName": "873_Standing_Hip_Adduction_Lever.mp4",
+    "localUrl": "/exercise-videos/873_Standing_Hip_Adduction_Lever.mp4",
+    "keywords": [
+      "standing hip adduction lever",
+      "hip adduction",
+      "standing",
+      "hip",
+      "adduction",
+      "lever"
+    ]
+  },
+  {
+    "id": "standing-fly-cable",
+    "sourceId": "874",
+    "exerciseLabel": "Standing Fly Cable",
+    "fileName": "874_Standing_Fly_Cable.mp4",
+    "localUrl": "/exercise-videos/874_Standing_Fly_Cable.mp4",
+    "keywords": [
+      "standing fly cable",
+      "fly",
+      "standing",
+      "cable"
+    ]
+  },
+  {
+    "id": "standing-crunch-cable",
+    "sourceId": "875",
+    "exerciseLabel": "Standing Crunch Cable",
+    "fileName": "875_Standing_Crunch_Cable.mp4",
+    "localUrl": "/exercise-videos/875_Standing_Crunch_Cable.mp4",
+    "keywords": [
+      "standing crunch cable",
+      "crunch",
+      "standing",
+      "cable"
+    ]
+  },
+  {
+    "id": "standing-cross-row-cable",
+    "sourceId": "876",
+    "exerciseLabel": "Standing Cross Row Cable",
+    "fileName": "876_Standing_Cross_Row_Cable.mp4",
+    "localUrl": "/exercise-videos/876_Standing_Cross_Row_Cable.mp4",
+    "keywords": [
+      "standing cross row cable",
+      "cross row",
+      "standing",
+      "cross",
+      "row",
+      "cable"
+    ]
+  },
+  {
+    "id": "squat-lever",
+    "sourceId": "877",
+    "exerciseLabel": "Squat Lever",
+    "fileName": "877_Squat_Lever.mp4",
+    "localUrl": "/exercise-videos/877_Squat_Lever.mp4",
+    "keywords": [
+      "squat lever",
+      "squat",
+      "lever"
+    ]
+  },
+  {
+    "id": "squat-dumbbell",
+    "sourceId": "878",
+    "exerciseLabel": "Squat Dumbbell",
+    "fileName": "878_Squat_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/878_Squat_Dumbbell.mp4",
+    "keywords": [
+      "squat dumbbell",
+      "squat",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "squat-cable",
+    "sourceId": "879",
+    "exerciseLabel": "Squat Cable",
+    "fileName": "879_Squat_Cable.mp4",
+    "localUrl": "/exercise-videos/879_Squat_Cable.mp4",
+    "keywords": [
+      "squat cable",
+      "squat",
+      "cable"
+    ]
+  },
+  {
+    "id": "squat-barbell",
+    "sourceId": "880",
+    "exerciseLabel": "Squat Barbell",
+    "fileName": "880_Squat_Barbell.mp4",
+    "localUrl": "/exercise-videos/880_Squat_Barbell.mp4",
+    "keywords": [
+      "squat barbell",
+      "squat",
+      "barbell"
+    ]
+  },
+  {
+    "id": "split-squat-single-leg-dumbbell",
+    "sourceId": "881",
+    "exerciseLabel": "Split Squat Single Leg Dumbbell",
+    "fileName": "881_Split_Squat_-_Single_Leg_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/881_Split_Squat_-_Single_Leg_Dumbbell.mp4",
+    "keywords": [
+      "split squat single leg dumbbell",
+      "split squat",
+      "split",
+      "squat",
+      "single",
+      "leg",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "split-squat-single-leg-cable",
+    "sourceId": "882",
+    "exerciseLabel": "Split Squat Single Leg Cable",
+    "fileName": "882_Split_Squat_-_Single_Leg_Cable.mp4",
+    "localUrl": "/exercise-videos/882_Split_Squat_-_Single_Leg_Cable.mp4",
+    "keywords": [
+      "split squat single leg cable",
+      "split squat",
+      "split",
+      "squat",
+      "single",
+      "leg",
+      "cable"
+    ]
+  },
+  {
+    "id": "single-leg-split-squat",
+    "sourceId": "883",
+    "exerciseLabel": "Single Leg Split Squat",
+    "fileName": "883_Single_Leg_Split_Squat.mp4",
+    "localUrl": "/exercise-videos/883_Single_Leg_Split_Squat.mp4",
+    "keywords": [
+      "single leg split squat",
+      "split squat",
+      "single",
+      "leg",
+      "split",
+      "squat"
+    ]
+  },
+  {
+    "id": "single-lateral-raise-dumbbell",
+    "sourceId": "884",
+    "exerciseLabel": "Single Lateral Raise Dumbbell",
+    "fileName": "884_Single_Lateral_Raise_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/884_Single_Lateral_Raise_Dumbbell.mp4",
+    "keywords": [
+      "single lateral raise dumbbell",
+      "lateral raise",
+      "single",
+      "lateral",
+      "raise",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "single-arm-incline-press-cable",
+    "sourceId": "885",
+    "exerciseLabel": "Single Arm Incline Press Cable",
+    "fileName": "885_Single_Arm_Incline_Press_Cable.mp4",
+    "localUrl": "/exercise-videos/885_Single_Arm_Incline_Press_Cable.mp4",
+    "keywords": [
+      "single arm incline press cable",
+      "press",
+      "single",
+      "arm",
+      "incline",
+      "cable"
+    ]
+  },
+  {
+    "id": "single-lateral-raise-cable",
+    "sourceId": "886",
+    "exerciseLabel": "Single Lateral Raise Cable",
+    "fileName": "886_Single_-_Lateral_Raise_Cable.mp4",
+    "localUrl": "/exercise-videos/886_Single_-_Lateral_Raise_Cable.mp4",
+    "keywords": [
+      "single lateral raise cable",
+      "lateral raise",
+      "single",
+      "lateral",
+      "raise",
+      "cable"
+    ]
+  },
+  {
+    "id": "side-lunge-dumbbell",
+    "sourceId": "887",
+    "exerciseLabel": "Side Lunge Dumbbell",
+    "fileName": "887_Side_Lunge_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/887_Side_Lunge_Dumbbell.mp4",
+    "keywords": [
+      "side lunge dumbbell",
+      "side lunge",
+      "side",
+      "lunge",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "side-lunge-barbell",
+    "sourceId": "888",
+    "exerciseLabel": "Side Lunge Barbell",
+    "fileName": "888_Side_Lunge_Barbell.mp4",
+    "localUrl": "/exercise-videos/888_Side_Lunge_Barbell.mp4",
+    "keywords": [
+      "side lunge barbell",
+      "side lunge",
+      "side",
+      "lunge",
+      "barbell"
+    ]
+  },
+  {
+    "id": "side-crunch",
+    "sourceId": "889",
+    "exerciseLabel": "Side Crunch",
+    "fileName": "889_Side_Crunch.mp4",
+    "localUrl": "/exercise-videos/889_Side_Crunch.mp4",
+    "keywords": [
+      "side crunch",
+      "side",
+      "crunch"
+    ]
+  },
+  {
+    "id": "side-crunch-lever",
+    "sourceId": "890",
+    "exerciseLabel": "Side Crunch Lever",
+    "fileName": "890_Side_Crunch_Lever.mp4",
+    "localUrl": "/exercise-videos/890_Side_Crunch_Lever.mp4",
+    "keywords": [
+      "side crunch lever",
+      "side crunch",
+      "side",
+      "crunch",
+      "lever"
+    ]
+  },
+  {
+    "id": "side-bend-lever",
+    "sourceId": "891",
+    "exerciseLabel": "Side Bend Lever",
+    "fileName": "891_Side_Bend_Lever.mp4",
+    "localUrl": "/exercise-videos/891_Side_Bend_Lever.mp4",
+    "keywords": [
+      "side bend lever",
+      "side bend",
+      "side",
+      "bend",
+      "lever"
+    ]
+  },
+  {
+    "id": "side-bend-dumbbell",
+    "sourceId": "892",
+    "exerciseLabel": "Side Bend Dumbbell",
+    "fileName": "892_Side_Bend_Dumbbell.mp4",
+    "localUrl": "/exercise-videos/892_Side_Bend_Dumbbell.mp4",
+    "keywords": [
+      "side bend dumbbell",
+      "side bend",
+      "side",
+      "bend",
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "side-bend-cable",
+    "sourceId": "893",
+    "exerciseLabel": "Side Bend Cable",
+    "fileName": "893_Side_Bend_Cable.mp4",
+    "localUrl": "/exercise-videos/893_Side_Bend_Cable.mp4",
+    "keywords": [
+      "side bend cable",
+      "side bend",
+      "side",
+      "bend",
+      "cable"
+    ]
+  },
+  {
+    "id": "shrug-seated-barbell",
+    "sourceId": "894",
+    "exerciseLabel": "Shrug Seated Barbell",
+    "fileName": "894_Shrug_Seated_Barbell.mp4",
+    "localUrl": "/exercise-videos/894_Shrug_Seated_Barbell.mp4",
+    "keywords": [
+      "shrug seated barbell",
+      "shrug",
+      "seated",
+      "barbell"
+    ]
+  }
+]

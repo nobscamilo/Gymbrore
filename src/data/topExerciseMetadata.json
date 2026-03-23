@@ -1,0 +1,1752 @@
+{
+  "90-90 hip switch": {
+    "nameEs": "Switch de Cadera 90-90",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "hip_flexors",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "core"
+    ],
+    "painFlags": [
+      "low_back",
+      "knee"
+    ],
+    "aliases": [
+      "90-90 hip switch",
+      "90 90 hip switch",
+      "switch cadera 90-90"
+    ]
+  },
+  "activation and ramp-up sets": {
+    "nameEs": "Activacion y Series de Aproximacion",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "quads",
+      "hamstrings"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "activation and ramp-up sets",
+      "ramp up sets",
+      "activacion y series de aproximacion",
+      "series de aproximacion"
+    ]
+  },
+  "adductor rockback": {
+    "nameEs": "Rockback de Aductores",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads",
+      "hip_flexors"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "glutes"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "adductor rockback",
+      "rockback adductor",
+      "rockback de aductores"
+    ]
+  },
+  "ankle dorsiflexion drill": {
+    "nameEs": "Drill de Dorsiflexion de Tobillo",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [
+      "quads"
+    ],
+    "painFlags": [
+      "ankle",
+      "knee"
+    ],
+    "aliases": [
+      "ankle dorsiflexion drill",
+      "dorsiflexion drill",
+      "drill de dorsiflexion de tobillo"
+    ]
+  },
+  "back squat": {
+    "nameEs": "Sentadilla Trasera",
+    "movementPattern": "squat",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core",
+      "calves"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "back squat",
+      "barbell back squat",
+      "sentadilla trasera"
+    ],
+    "techniqueEn": [
+      "Brace the trunk before each rep and maintain neutral spine.",
+      "Sit down and slightly back while tracking knees over toes.",
+      "Drive upward with full-foot pressure without lumbar collapse."
+    ],
+    "techniqueEs": [
+      "Activa el tronco antes de cada repeticion y mantien columna neutral.",
+      "Desciende controlado, con rodillas alineadas sobre los pies.",
+      "Impulsa desde apoyo completo del pie evitando colapso lumbar."
+    ]
+  },
+  "band pull-apart": {
+    "nameEs": "Band Pull-Apart",
+    "movementPattern": "pull",
+    "equipment": "mixed",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "painFlags": [
+      "shoulder",
+      "neck"
+    ],
+    "aliases": [
+      "band pull-apart",
+      "band pull apart",
+      "pull-apart"
+    ]
+  },
+  "bear plank breathing": {
+    "nameEs": "Respiracion en Bear Plank",
+    "movementPattern": "core",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "wrist",
+      "low_back"
+    ],
+    "aliases": [
+      "bear plank breathing",
+      "bear plank",
+      "respiracion bear plank"
+    ]
+  },
+  "bench press": {
+    "nameEs": "Press de Banca",
+    "movementPattern": "push",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist"
+    ],
+    "aliases": [
+      "bench press",
+      "press banca",
+      "press de banca"
+    ]
+  },
+  "biceps curl": {
+    "nameEs": "Curl de Biceps",
+    "movementPattern": "isolation",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "painFlags": [
+      "wrist"
+    ],
+    "aliases": [
+      "biceps curl",
+      "curl de biceps"
+    ]
+  },
+  "breathing downregulation": {
+    "nameEs": "Vuelta a la Calma Respiratoria",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "low_back",
+      "neck"
+    ],
+    "aliases": [
+      "breathing downregulation",
+      "vuelta a la calma respiratoria",
+      "downregulation breathing",
+      "breathing cooldown"
+    ]
+  },
+  "bulgarian split squat": {
+    "nameEs": "Sentadilla Bulgara",
+    "movementPattern": "lunge",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core",
+      "calves"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "bulgarian split squat",
+      "sentadilla bulgara"
+    ]
+  },
+  "calf raise": {
+    "nameEs": "Elevacion de Pantorrillas",
+    "movementPattern": "isolation",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "painFlags": [
+      "knee",
+      "ankle"
+    ],
+    "aliases": [
+      "calf raise",
+      "elevacion de pantorrillas"
+    ]
+  },
+  "calf stretch wall": {
+    "nameEs": "Estiramiento de Gemelo en Pared",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "painFlags": [
+      "ankle",
+      "knee"
+    ],
+    "aliases": [
+      "calf stretch wall",
+      "calf wall stretch",
+      "estiramiento de gemelo en pared"
+    ]
+  },
+  "cat-cow mobility": {
+    "nameEs": "Movilidad Gato-Camello",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core",
+      "back"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "low_back",
+      "neck"
+    ],
+    "aliases": [
+      "cat-cow mobility",
+      "cat cow",
+      "gato camello"
+    ]
+  },
+  "chest-supported row": {
+    "nameEs": "Remo con Pecho Apoyado",
+    "movementPattern": "pull",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "forearms",
+      "shoulders"
+    ],
+    "painFlags": [
+      "shoulder"
+    ],
+    "aliases": [
+      "chest-supported row",
+      "remo pecho apoyado"
+    ]
+  },
+  "dead bug": {
+    "nameEs": "Dead Bug",
+    "movementPattern": "core",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "low_back",
+      "neck"
+    ],
+    "aliases": [
+      "dead bug"
+    ]
+  },
+  "deadlift": {
+    "nameEs": "Peso Muerto",
+    "movementPattern": "hinge",
+    "equipment": "barbell",
+    "difficulty": "advanced",
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "back"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "forearms"
+    ],
+    "painFlags": [
+      "low_back"
+    ],
+    "aliases": [
+      "deadlift",
+      "peso muerto"
+    ]
+  },
+  "dumbbell floor press": {
+    "nameEs": "Press de Piso con Mancuernas",
+    "movementPattern": "push",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist"
+    ],
+    "aliases": [
+      "dumbbell floor press",
+      "press de piso"
+    ]
+  },
+  "dumbbell romanian deadlift": {
+    "nameEs": "Peso Muerto Rumano con Mancuernas",
+    "movementPattern": "hinge",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "back",
+      "core"
+    ],
+    "painFlags": [
+      "low_back"
+    ],
+    "aliases": [
+      "dumbbell romanian deadlift",
+      "rdl dumbbell"
+    ]
+  },
+  "dumbbell shoulder press": {
+    "nameEs": "Press de Hombro con Mancuernas",
+    "movementPattern": "push",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "chest"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist"
+    ],
+    "aliases": [
+      "dumbbell shoulder press",
+      "press hombro mancuernas"
+    ]
+  },
+  "dynamic hip opener": {
+    "nameEs": "Apertura Dinamica de Cadera",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "hip_flexors",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "quads"
+    ],
+    "painFlags": [
+      "low_back",
+      "knee"
+    ],
+    "aliases": [
+      "dynamic hip opener",
+      "hip opener",
+      "apertura dinamica de cadera"
+    ]
+  },
+  "face pull": {
+    "nameEs": "Face Pull",
+    "movementPattern": "pull",
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "shoulders",
+      "back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "painFlags": [
+      "shoulder",
+      "neck"
+    ],
+    "aliases": [
+      "face pull"
+    ]
+  },
+  "front squat": {
+    "nameEs": "Sentadilla Frontal",
+    "movementPattern": "squat",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "quads",
+      "core"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back",
+      "wrist"
+    ],
+    "aliases": [
+      "front squat",
+      "sentadilla frontal"
+    ]
+  },
+  "glute bridge": {
+    "nameEs": "Puente de Gluteos",
+    "movementPattern": "hinge",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core"
+    ],
+    "painFlags": [
+      "low_back"
+    ],
+    "aliases": [
+      "glute bridge",
+      "puente de gluteos"
+    ]
+  },
+  "goblet squat": {
+    "nameEs": "Sentadilla Goblet",
+    "movementPattern": "squat",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "hamstrings"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "goblet squat",
+      "sentadilla goblet"
+    ]
+  },
+  "hamstring dynamic sweep": {
+    "nameEs": "Barrido Dinamico de Isquios",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes"
+    ],
+    "painFlags": [
+      "low_back",
+      "knee"
+    ],
+    "aliases": [
+      "hamstring dynamic sweep",
+      "dynamic hamstring sweep",
+      "barrido dinamico de isquios"
+    ]
+  },
+  "hip flexor stretch": {
+    "nameEs": "Estiramiento de Flexor de Cadera",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "hip_flexors"
+    ],
+    "secondaryMuscles": [
+      "quads",
+      "core"
+    ],
+    "painFlags": [
+      "low_back",
+      "knee"
+    ],
+    "aliases": [
+      "hip flexor stretch",
+      "hip flexor",
+      "estiramiento flexor de cadera"
+    ]
+  },
+  "hip thrust": {
+    "nameEs": "Hip Thrust",
+    "movementPattern": "hinge",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core"
+    ],
+    "painFlags": [
+      "low_back"
+    ],
+    "aliases": [
+      "hip thrust",
+      "empuje de cadera"
+    ]
+  },
+  "incline dumbbell press": {
+    "nameEs": "Press Inclinado con Mancuernas",
+    "movementPattern": "push",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist"
+    ],
+    "aliases": [
+      "incline dumbbell press",
+      "press inclinado con mancuernas"
+    ]
+  },
+  "inverted row": {
+    "nameEs": "Remo Invertido",
+    "movementPattern": "pull",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "forearms",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder"
+    ],
+    "aliases": [
+      "inverted row",
+      "remo invertido"
+    ]
+  },
+  "joint mobility primer": {
+    "nameEs": "Movilidad Articular Inicial",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core",
+      "hip_flexors"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "glutes"
+    ],
+    "painFlags": [
+      "low_back",
+      "knee",
+      "shoulder"
+    ],
+    "aliases": [
+      "joint mobility primer",
+      "mobility primer",
+      "movilidad articular inicial",
+      "movilidad articular",
+      "warm up mobility"
+    ]
+  },
+  "landmine press": {
+    "nameEs": "Press Landmine",
+    "movementPattern": "push",
+    "equipment": "mixed",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "shoulders",
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder"
+    ],
+    "aliases": [
+      "landmine press",
+      "press landmine"
+    ]
+  },
+  "lat pulldown": {
+    "nameEs": "Jalon al Pecho",
+    "movementPattern": "pull",
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "painFlags": [
+      "shoulder",
+      "neck"
+    ],
+    "aliases": [
+      "lat pulldown",
+      "jalon al pecho"
+    ]
+  },
+  "lat stretch bench": {
+    "nameEs": "Estiramiento de Dorsal en Banco",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "painFlags": [
+      "shoulder",
+      "low_back"
+    ],
+    "aliases": [
+      "lat stretch bench",
+      "lat stretch",
+      "estiramiento dorsal banco"
+    ]
+  },
+  "leg press": {
+    "nameEs": "Prensa de Piernas",
+    "movementPattern": "squat",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "leg press",
+      "prensa de piernas"
+    ]
+  },
+  "mountain climbers": {
+    "nameEs": "Escaladores",
+    "movementPattern": "cardio",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core",
+      "hip_flexors"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "quads"
+    ],
+    "painFlags": [
+      "wrist",
+      "low_back"
+    ],
+    "aliases": [
+      "mountain climbers",
+      "escaladores"
+    ]
+  },
+  "one-arm dumbbell row": {
+    "nameEs": "Remo a Una Mano con Mancuerna",
+    "movementPattern": "pull",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "forearms",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "low_back"
+    ],
+    "aliases": [
+      "one-arm dumbbell row",
+      "one arm dumbbell row",
+      "remo mancuerna una mano"
+    ]
+  },
+  "overhead press": {
+    "nameEs": "Press Militar",
+    "movementPattern": "push",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "chest"
+    ],
+    "painFlags": [
+      "shoulder",
+      "low_back",
+      "wrist"
+    ],
+    "aliases": [
+      "overhead press",
+      "press militar"
+    ]
+  },
+  "pec doorway stretch": {
+    "nameEs": "Estiramiento de Pectoral en Puerta",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "biceps"
+    ],
+    "painFlags": [
+      "shoulder",
+      "neck"
+    ],
+    "aliases": [
+      "pec doorway stretch",
+      "chest doorway stretch",
+      "estiramiento pectoral puerta"
+    ]
+  },
+  "pike push-up": {
+    "nameEs": "Flexion Pike",
+    "movementPattern": "push",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist",
+      "neck"
+    ],
+    "aliases": [
+      "pike push-up",
+      "pike push up"
+    ]
+  },
+  "plank": {
+    "nameEs": "Plancha",
+    "movementPattern": "core",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "glutes"
+    ],
+    "painFlags": [
+      "low_back",
+      "wrist"
+    ],
+    "aliases": [
+      "plank",
+      "plancha"
+    ]
+  },
+  "pull-up": {
+    "nameEs": "Dominada",
+    "movementPattern": "pull",
+    "equipment": "bodyweight",
+    "difficulty": "advanced",
+    "primaryMuscles": [
+      "back",
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "elbow"
+    ],
+    "aliases": [
+      "pull-up",
+      "pull up",
+      "dominada"
+    ]
+  },
+  "push-up": {
+    "nameEs": "Flexion",
+    "movementPattern": "push",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist"
+    ],
+    "aliases": [
+      "push-up",
+      "push up",
+      "flexion"
+    ]
+  },
+  "quadriceps stretch standing": {
+    "nameEs": "Estiramiento de Cuadriceps de Pie",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "quadriceps stretch standing",
+      "standing quad stretch",
+      "estiramiento cuadriceps de pie"
+    ]
+  },
+  "reverse lunge": {
+    "nameEs": "Zancada Inversa",
+    "movementPattern": "lunge",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core",
+      "calves"
+    ],
+    "painFlags": [
+      "knee"
+    ],
+    "aliases": [
+      "reverse lunge",
+      "zancada inversa"
+    ]
+  },
+  "romanian deadlift": {
+    "nameEs": "Peso Muerto Rumano",
+    "movementPattern": "hinge",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "back",
+      "core"
+    ],
+    "painFlags": [
+      "low_back"
+    ],
+    "aliases": [
+      "romanian deadlift",
+      "rdl",
+      "peso muerto rumano"
+    ]
+  },
+  "scapular wall slide": {
+    "nameEs": "Deslizamiento Escapular en Pared",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "shoulders",
+      "back"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "neck"
+    ],
+    "aliases": [
+      "scapular wall slide",
+      "wall slide",
+      "deslizamiento escapular"
+    ]
+  },
+  "seated cable row": {
+    "nameEs": "Remo Sentado en Cable",
+    "movementPattern": "pull",
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "forearms",
+      "shoulders"
+    ],
+    "painFlags": [
+      "shoulder",
+      "low_back"
+    ],
+    "aliases": [
+      "seated cable row",
+      "remo sentado cable"
+    ]
+  },
+  "side plank": {
+    "nameEs": "Plancha Lateral",
+    "movementPattern": "core",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "glutes",
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "shoulder",
+      "low_back"
+    ],
+    "aliases": [
+      "side plank",
+      "plancha lateral"
+    ]
+  },
+  "spinal segmentation drill": {
+    "nameEs": "Drill de Segmentacion Espinal",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core",
+      "back"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "low_back",
+      "neck"
+    ],
+    "aliases": [
+      "spinal segmentation drill",
+      "segmentacion espinal",
+      "drill segmentacion espinal"
+    ]
+  },
+  "split squat": {
+    "nameEs": "Sentadilla Dividida",
+    "movementPattern": "lunge",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core",
+      "calves"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "split squat",
+      "sentadilla dividida"
+    ]
+  },
+  "step-down": {
+    "nameEs": "Bajada de Cajon",
+    "movementPattern": "lunge",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves",
+      "core"
+    ],
+    "painFlags": [
+      "knee"
+    ],
+    "aliases": [
+      "step-down",
+      "step down",
+      "bajada de cajon"
+    ]
+  },
+  "step-up": {
+    "nameEs": "Subida al Cajon",
+    "movementPattern": "lunge",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves",
+      "core"
+    ],
+    "painFlags": [
+      "knee"
+    ],
+    "aliases": [
+      "step-up",
+      "step up",
+      "subida al cajon"
+    ]
+  },
+  "targeted stretching": {
+    "nameEs": "Estiramiento Dirigido",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors",
+      "hamstrings"
+    ],
+    "painFlags": [
+      "low_back",
+      "shoulder",
+      "knee"
+    ],
+    "aliases": [
+      "targeted stretching",
+      "estiramiento dirigido",
+      "stretching cooldown",
+      "static stretching"
+    ]
+  },
+  "thoracic spine rotation": {
+    "nameEs": "Rotacion de Columna Toracica",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back",
+      "core"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "painFlags": [
+      "low_back",
+      "neck"
+    ],
+    "aliases": [
+      "thoracic spine rotation",
+      "thoracic rotation",
+      "rotacion toracica"
+    ]
+  },
+  "trap bar deadlift": {
+    "nameEs": "Peso Muerto con Trap Bar",
+    "movementPattern": "hinge",
+    "equipment": "mixed",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "glutes",
+      "quads",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "back",
+      "core"
+    ],
+    "painFlags": [
+      "low_back"
+    ],
+    "aliases": [
+      "trap bar deadlift",
+      "hex bar deadlift"
+    ]
+  },
+  "triceps extension": {
+    "nameEs": "Extension de Triceps",
+    "movementPattern": "isolation",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "painFlags": [
+      "elbow",
+      "shoulder"
+    ],
+    "aliases": [
+      "triceps extension",
+      "extension de triceps"
+    ]
+  },
+  "walking knee hug": {
+    "nameEs": "Marcha con Abrazo de Rodilla",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "hip_flexors",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "core"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "walking knee hug",
+      "knee hug walk",
+      "marcha abrazo de rodilla"
+    ]
+  },
+  "walking lunge": {
+    "nameEs": "Zancada Caminando",
+    "movementPattern": "lunge",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core",
+      "calves"
+    ],
+    "painFlags": [
+      "knee"
+    ],
+    "aliases": [
+      "walking lunge",
+      "zancada caminando"
+    ]
+  },
+  "walking quad pull": {
+    "nameEs": "Marcha con Traccion de Cuadriceps",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors",
+      "core"
+    ],
+    "painFlags": [
+      "knee"
+    ],
+    "aliases": [
+      "walking quad pull",
+      "quad pull walk",
+      "marcha traccion cuadriceps"
+    ]
+  },
+  "world's greatest stretch": {
+    "nameEs": "Estiramiento del Mundo",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "hip_flexors",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "back"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "world's greatest stretch",
+      "worlds greatest stretch",
+      "estiramiento del mundo"
+    ]
+  },
+  "trx row": {
+    "nameEs": "Remo en TRX",
+    "movementPattern": "pull",
+    "equipment": "mixed",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "shoulders",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "elbow"
+    ],
+    "aliases": [
+      "trx row",
+      "suspension row",
+      "remo trx",
+      "remo en trx"
+    ]
+  },
+  "trx chest press": {
+    "nameEs": "Press de Pecho en TRX",
+    "movementPattern": "push",
+    "equipment": "mixed",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist"
+    ],
+    "aliases": [
+      "trx chest press",
+      "suspension chest press",
+      "press pecho trx",
+      "press de pecho en trx"
+    ]
+  },
+  "trx assisted squat": {
+    "nameEs": "Sentadilla Asistida en TRX",
+    "movementPattern": "squat",
+    "equipment": "mixed",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core",
+      "calves"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "trx assisted squat",
+      "assisted squat trx",
+      "sentadilla asistida trx",
+      "sentadilla asistida en trx"
+    ]
+  },
+  "trx split squat": {
+    "nameEs": "Sentadilla Dividida en TRX",
+    "movementPattern": "lunge",
+    "equipment": "mixed",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "core",
+      "calves"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "trx split squat",
+      "split squat trx",
+      "sentadilla dividida trx",
+      "sentadilla dividida en trx"
+    ]
+  },
+  "trx hamstring curl": {
+    "nameEs": "Curl Femoral en TRX",
+    "movementPattern": "hinge",
+    "equipment": "mixed",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "calves"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "trx hamstring curl",
+      "hamstring curl trx",
+      "curl femoral trx",
+      "curl femoral en trx"
+    ]
+  },
+  "trx pike": {
+    "nameEs": "Pike en TRX",
+    "movementPattern": "core",
+    "equipment": "mixed",
+    "difficulty": "advanced",
+    "primaryMuscles": [
+      "core",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors",
+      "chest"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist",
+      "low_back"
+    ],
+    "aliases": [
+      "trx pike",
+      "pike trx",
+      "pike en trx"
+    ]
+  },
+  "trx y fly": {
+    "nameEs": "Y Fly en TRX",
+    "movementPattern": "pull",
+    "equipment": "mixed",
+    "difficulty": "intermediate",
+    "primaryMuscles": [
+      "back",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "forearms",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "neck"
+    ],
+    "aliases": [
+      "trx y fly",
+      "y fly trx",
+      "apertura y trx",
+      "y fly en trx"
+    ]
+  },
+  "pilates hundred": {
+    "nameEs": "Pilates Hundred",
+    "movementPattern": "core",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core",
+      "hip_flexors"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "painFlags": [
+      "low_back",
+      "neck"
+    ],
+    "aliases": [
+      "pilates hundred",
+      "the hundred",
+      "hundred pilates"
+    ]
+  },
+  "pilates roll up": {
+    "nameEs": "Roll Up de Pilates",
+    "movementPattern": "core",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core"
+    ],
+    "secondaryMuscles": [
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "low_back",
+      "neck"
+    ],
+    "aliases": [
+      "pilates roll up",
+      "roll up pilates",
+      "roll up de pilates"
+    ]
+  },
+  "pilates single leg stretch": {
+    "nameEs": "Single Leg Stretch de Pilates",
+    "movementPattern": "core",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "core",
+      "hip_flexors"
+    ],
+    "secondaryMuscles": [
+      "quads"
+    ],
+    "painFlags": [
+      "low_back",
+      "neck"
+    ],
+    "aliases": [
+      "pilates single leg stretch",
+      "single leg stretch pilates",
+      "single leg stretch de pilates"
+    ]
+  },
+  "pilates shoulder bridge": {
+    "nameEs": "Shoulder Bridge de Pilates",
+    "movementPattern": "hinge",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "hip_flexors"
+    ],
+    "painFlags": [
+      "low_back",
+      "knee"
+    ],
+    "aliases": [
+      "pilates shoulder bridge",
+      "shoulder bridge pilates",
+      "shoulder bridge de pilates"
+    ]
+  },
+  "pilates swan": {
+    "nameEs": "Swan de Pilates",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "glutes"
+    ],
+    "painFlags": [
+      "low_back",
+      "shoulder"
+    ],
+    "aliases": [
+      "pilates swan",
+      "swan pilates",
+      "swan de pilates"
+    ]
+  },
+  "yoga downward dog": {
+    "nameEs": "Perro Boca Abajo",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "shoulders",
+      "calves"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "back",
+      "core"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist",
+      "ankle"
+    ],
+    "aliases": [
+      "yoga downward dog",
+      "downward dog",
+      "perro boca abajo"
+    ]
+  },
+  "yoga cobra pose": {
+    "nameEs": "Postura Cobra",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "back"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "chest",
+      "core"
+    ],
+    "painFlags": [
+      "low_back",
+      "wrist"
+    ],
+    "aliases": [
+      "yoga cobra pose",
+      "cobra pose",
+      "postura cobra"
+    ]
+  },
+  "yoga low lunge stretch": {
+    "nameEs": "Estiramiento Low Lunge",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "hip_flexors",
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "core"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "yoga low lunge stretch",
+      "low lunge stretch",
+      "estiramiento low lunge"
+    ]
+  },
+  "yoga pigeon stretch": {
+    "nameEs": "Estiramiento Pigeon",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "glutes",
+      "hip_flexors"
+    ],
+    "secondaryMuscles": [
+      "back",
+      "core"
+    ],
+    "painFlags": [
+      "knee",
+      "low_back"
+    ],
+    "aliases": [
+      "yoga pigeon stretch",
+      "pigeon stretch",
+      "estiramiento pigeon"
+    ]
+  },
+  "sun salutation flow": {
+    "nameEs": "Flujo de Saludo al Sol",
+    "movementPattern": "mobility",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "primaryMuscles": [
+      "shoulders",
+      "hip_flexors"
+    ],
+    "secondaryMuscles": [
+      "core",
+      "hamstrings",
+      "calves"
+    ],
+    "painFlags": [
+      "shoulder",
+      "wrist",
+      "low_back"
+    ],
+    "aliases": [
+      "sun salutation flow",
+      "sun salutation",
+      "saludo al sol",
+      "flujo saludo al sol"
+    ]
+  }
+}

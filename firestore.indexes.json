@@ -1,0 +1,19 @@
+{
+    "indexes": [
+        {
+            "collectionGroup": "users",
+            "queryScope": "COLLECTION",
+            "fields": [
+                {
+                    "fieldPath": "autoWeeklyRefresh",
+                    "order": "ASCENDING"
+                },
+                {
+                    "fieldPath": "currentPlanGeneratedAt",
+                    "order": "ASCENDING"
+                }
+            ]
+        }
+    ],
+    "fieldOverrides": []
+}

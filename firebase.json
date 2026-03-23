@@ -1,0 +1,84 @@
+{
+    "functions": [
+        {
+            "source": "functions",
+            "codebase": "scheduler",
+            "runtime": "nodejs22",
+            "ignore": [
+                "node_modules",
+                ".git",
+                "firebase-debug.log",
+                "firebase-debug.*.log"
+            ]
+        }
+    ],
+    "hosting": {
+        "source": ".",
+        "headers": [
+            {
+                "source": "**/*.html",
+                "headers": [
+                    {
+                        "key": "Cache-Control",
+                        "value": "no-store, max-age=0"
+                    }
+                ]
+            },
+            {
+                "source": "_next/static/**",
+                "headers": [
+                    {
+                        "key": "Cache-Control",
+                        "value": "public, max-age=31536000, immutable"
+                    }
+                ]
+            },
+            {
+                "source": "anatomy/**",
+                "headers": [
+                    {
+                        "key": "Cache-Control",
+                        "value": "public, max-age=604800, stale-while-revalidate=86400"
+                    }
+                ]
+            },
+            {
+                "source": "exercise-videos/**",
+                "headers": [
+                    {
+                        "key": "Cache-Control",
+                        "value": "public, max-age=604800, stale-while-revalidate=86400"
+                    }
+                ]
+            }
+        ],
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ],
+        "frameworksBackend": {
+            "region": "us-central1",
+            "secrets": [
+                "GOOGLE_GENAI_API_KEY"
+            ]
+        }
+    },
+    "firestore": {
+        "rules": "firestore.rules",
+        "indexes": "firestore.indexes.json"
+    },
+    "emulators": {
+        "auth": {
+            "port": 9099
+        },
+        "firestore": {
+            "port": 8080
+        },
+        "ui": {
+            "enabled": true,
+            "port": 4000
+        },
+        "singleProjectMode": true
+    }
+}
